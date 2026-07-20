@@ -1,0 +1,6 @@
+{
+  "name": "DriveEase Self Drive Cars",
+  "description": "Premium self-drive car rental platform in Hyderabad offering luxury SUVs, sedans, and electric vehicles with smooth glassmorphism UI, real-time booking, AI support, and an advanced dashboard.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
